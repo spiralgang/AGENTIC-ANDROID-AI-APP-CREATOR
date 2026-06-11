@@ -1,0 +1,6 @@
+{
+  "name": "AI APK Generator",
+  "description": "An interactive workspace, terminal, and generator that constructs fully-structured Android Kotlin/Java source code and manifest projects from text descriptions, offering simulation of compiles and structured project downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
